@@ -28,3 +28,4 @@ C:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Te
 C:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Testing\GithubActionsTesting\DaWebApp\DaActualWebApp\obj\Debug\net8.0\DaActualWebApp.pdb
 C:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Testing\GithubActionsTesting\DaWebApp\DaActualWebApp\obj\Debug\net8.0\DaActualWebApp.genruntimeconfig.cache
 C:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Testing\GithubActionsTesting\DaWebApp\DaActualWebApp\obj\Debug\net8.0\ref\DaActualWebApp.dll
+C:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Testing\GithubActionsTesting\DaWebApp\DaActualWebApp\obj\Debug\net8.0\DaActualWebApp.sourcelink.json

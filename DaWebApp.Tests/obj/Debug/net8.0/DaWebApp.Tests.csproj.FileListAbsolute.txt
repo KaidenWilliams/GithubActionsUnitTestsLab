@@ -108,3 +108,4 @@ C:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Te
 C:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Testing\GithubActionsTesting\DaWebApp\DaWebApp.Tests\obj\Debug\net8.0\ref\DaWebApp.Tests.dll
 c:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Testing\GithubActionsTesting\DaWebApp\DaWebApp.Tests\bin\Debug\net8.0\Castle.Core.dll
 c:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Testing\GithubActionsTesting\DaWebApp\DaWebApp.Tests\bin\Debug\net8.0\Moq.dll
+C:\Users\kawill\Desktop\MyStuff\Projects\Coding Projects\VSCodeProjects\Other_Testing\GithubActionsTesting\DaWebApp\DaWebApp.Tests\obj\Debug\net8.0\DaWebApp.Tests.sourcelink.json
