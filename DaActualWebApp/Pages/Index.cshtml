@@ -1,0 +1,17 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+
+<div class="text-center">
+    <h1 class="display-4 mb-3">Welcome I am Testing Stuffs</h1>
+    <p class="mb-2">Enter the secret in the form:</p>
+    <form class="mb-4" method="post">
+        <input type="text" asp-for="InputText" />
+        <button type="submit">Submit</button>
+    </form>
+    <p>@Model.Message</p>
+</div>
